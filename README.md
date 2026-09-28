@@ -8,7 +8,7 @@ Nhóm xây hệ thống quỹ nhóm nhiều người duyệt cho nhóm sinh viê
 | STT | Họ và tên | MSV | Lớp |
 |---|---|---|---|
 | 1 | Trần Hoàng Phương Dung | 23K4300004 | K57 Kinh tế số |
-
+| 2 | Võ Ngọc Tâm Phúc | 23K4300015 | K57 Kinh tế số |
 # ECO2432 Web3 Starter
 
 Kho khởi đầu dùng xuyên suốt 15 bài thực hành.
