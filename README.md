@@ -1,7 +1,15 @@
-# HCE Group Fund
+# KTS Class Fund
 
-Nhóm xây hệ thống quỹ nhóm nhiều người duyệt cho nhóm sinh viên
-để việc chi quỹ minh bạch và chỉ được thực hiện khi đủ 2/3 thành viên phê duyệt.
+## Giới thiệu
+
+KTS Class Fund là hệ thống hỗ trợ quản lý quỹ lớp bằng Smart Contract.
+
+Hệ thống cho phép giảng viên hoặc ban cán sự tạo yêu cầu chi,
+ban cán sự xác nhận thông tin khoản chi và chỉ cho phép thực hiện
+khi đạt đủ ngưỡng xác nhận theo quy định.
+
+Sinh viên trong lớp có thể theo dõi số dư quỹ,
+các yêu cầu chi, trạng thái xử lý và lịch sử giao dịch thông qua Web DApp.
 
 ## Thành viên nhóm
 
@@ -9,6 +17,7 @@ Nhóm xây hệ thống quỹ nhóm nhiều người duyệt cho nhóm sinh viê
 |---|---|---|---|
 | 1 | Trần Hoàng Phương Dung | 23K4300004 | K57 Kinh tế số |
 | 2 | Võ Ngọc Tâm Phúc | 23K4300015 | K57 Kinh tế số |
+
 # ECO2432 Web3 Starter
 
 Kho khởi đầu dùng xuyên suốt 15 bài thực hành.
